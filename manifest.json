@@ -1,0 +1,7 @@
+{
+  "name": "SkipIntermission",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Bryan-000/SkipIntermission",
+  "description": "Auto-skips intermissions avoiding crashes caused by plugin config.",
+  "dependencies": [ "BepInEx-BepInExPack-5.4.2304" ]
+}
