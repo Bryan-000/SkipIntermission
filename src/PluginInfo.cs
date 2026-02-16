@@ -16,7 +16,7 @@ public class PluginInfo
     public const string Name = "SkipIntermissions";
 
     /// <summary> The user friendly description of the plugin. </summary>
-    public const string Description = "Skips any intermissions since plugin config causes ur game to crash when u skip them manually.";
+    public const string Description = "Auto-skips intermissions avoiding crashes caused by plugin config.";
 
     /// <summary> The current version of the plugin. </summary>
     public const string Version = "1.0.0";
